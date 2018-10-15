@@ -1,0 +1,10 @@
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\bin\Debug\Arduino dan Database.exe.config
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\bin\Debug\Arduino dan Database.exe
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\bin\Debug\Arduino dan Database.pdb
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\bin\Debug\Arduino dan Database.xml
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\obj\Debug\Arduino_dan_Database.Form1.resources
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\obj\Debug\Arduino_dan_Database.Resources.resources
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\obj\Debug\Arduino dan Database.vbproj.GenerateResource.Cache
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\obj\Debug\Arduino dan Database.exe
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\obj\Debug\Arduino dan Database.xml
+D:\Data All About Praktek\Visual Studio 2012\Arduino dan Database\Arduino dan Database\obj\Debug\Arduino dan Database.pdb
